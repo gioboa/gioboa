@@ -1,8 +1,7 @@
-Giorgio Boa was born in 1987 and lives in Treviso, Italy.<br>
-He is a t-shaped developer and the front-end ecosystem is his passion.<br>
-He started to develop application in 2006 and in 2012 he falls in love with JavaScript.<br>
-He is also active in open source ecosystem, he loves learn and studies new things.<br>
-He is very ambitious and he tries to improve himself every day. :rocket:
+I'm a t-shaped developer and the front-end ecosystem is my passion.<br>
+I started to develop application in 2006 and in 2012 I fall in love with JavaScript.<br>
+I'm also active in open source ecosystem, I love learn and study new things.<br>
+I'm very ambitious and I try to improve myself every day. :rocket:
 
 <!--
 ### Work
