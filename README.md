@@ -16,7 +16,7 @@ I'm very ambitious and I try to improve myself every day. :rocket:
 - xxx
 -->
 
-### Contact
+### Contacts
 
 Reach me on [Twitter](https://twitter.com/giorgio_boa) or on [LinkedIn](https://www.linkedin.com/in/giorgio-boa-3ba717139/)
 <br><br>
