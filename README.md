@@ -1,4 +1,6 @@
-### About me
+# Hi everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+## About me
 
 I'm a t-shaped developer and the front-end ecosystem is my passion.<br>
 I started to develop application in 2006 and in 2012 I fall in love with JavaScript.<br>
@@ -17,7 +19,7 @@ I'm very ambitious and I try to improve myself every day. :rocket:
 - xxx
 -->
 
-### Contacts
+## Contacts
 
 Reach me on [Twitter](https://twitter.com/giorgio_boa) or on [LinkedIn](https://www.linkedin.com/in/giorgio-boa-3ba717139/)
 <br><br>
