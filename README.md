@@ -31,6 +31,7 @@ Meetups
 Meetups
 
 - 16 Dic 2021 - Frontend RheinMain 🇩🇪 [Effort optimization with Svelte + AWS](https://www.youtube.com/watch?v=j9absknhOmk)
+- 18 Mar 2021 - Commit University 🇮🇹 [Leggerezza + semplicità ^ 2 = Svelte](https://youtu.be/7CUSv5L9_Ik?t=1296)
 
 Workshops
 
@@ -40,9 +41,9 @@ Workshops
 
 #### Conferences
 
-- 18 Oct 2020 - DevFest Italia 2020 🇮🇹 [Lunga vita a community 🥳 & open source 💻](https://www.youtube.com/watch?v=CcYJVAc9S80)
+- 18 Oct 2020 - DevFest Italia 2020   🇮🇹 [Lunga vita a community 🥳 & open source 💻](https://www.youtube.com/watch?v=CcYJVAc9S80)
 - 03 May 2020 - GDG DevParty Together 🇮🇹 [Micro Frontends: Breaking up the Monolith](https://youtu.be/NevD6AlZP6I?list=PLP7BVzStXmbBykvsvTfjE8U1DDd1JnoqA&t=17396)
-- 16 Apr 2020 - MUG Marca User Group 🇮🇹 [Micro Frontends: Breaking up the Monolith](https://www.youtube.com/watch?v=iH3T4DvUIXU)
+- 16 Apr 2020 - MUG Marca User Group  🇮🇹 [Micro Frontends: Breaking up the Monolith](https://www.youtube.com/watch?v=iH3T4DvUIXU)
 
 <!--
 ### Work
