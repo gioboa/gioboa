@@ -1,4 +1,4 @@
-# Hi everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%">
 
 ## About me
 
@@ -7,6 +7,42 @@ I started to develop application in 2006 and in 2012 I fall in love with JavaScr
 I'm also active in open source ecosystem, I love learn and study new things.<br>
 I also really enjoy public speaking and sharing my experiences. I’m currently managing [italianCoders](https://italiancoders.it/) community.<br>
 I'm very ambitious and I try to improve myself every day. :rocket:
+
+## I'm really happy to share my experience at conferences and meetups :+1:
+
+### 2022
+
+#### Conferences
+
+- 14 Jun 2022 - WeAreDevelopers World Congress 🇩🇪 From Angular to React due the Cryptocurrencies
+- 09 Fab 2022 - JSWORLD Conference 🇳🇱 [Serverless Production Ready with Svelte + AWS Incognito and Amplify](https://youtu.be/i4lEouGQ2z8)
+
+Meetups
+
+- 18 May 2021 - Codemotion 🇮🇹 [Micro Frontends: Tante soluzioni per un futuro migliore](https://talks.codemotion.com/micro-frontends-tante-soluzioni-per-un-f)
+- 04 May 2021 - Codemotion 🇮🇹 [Micro Frontends: Le più robuste tecniche di orchestrazione](https://talks.codemotion.com/microfronted-le-pi-robuste-tecniche-di-o)
+
+### 2021
+
+#### Conferences
+
+- 20 Nov 2021 - Svelte Summit Fall 2021 🇸🇪 Serverless production ready with Svelte + AWS Cognito and Amplify
+
+Meetups
+
+- 16 Dic 2021 - Frontend RheinMain 🇩🇪 [Effort optimization with Svelte + AWS](https://www.youtube.com/watch?v=j9absknhOmk)
+
+Workshops
+
+- 25 Mar 2021 - Online Tech Conference - Italian Edition 🇮🇹 [#FlutterYourFantasy - let's listen to some good music!](https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-spring/workshops)
+ 
+### 2020
+
+#### Conferences
+
+- 18 Oct 2020 - DevFest Italia 2020 🇮🇹 [Lunga vita a community 🥳 & open source 💻](https://www.youtube.com/watch?v=CcYJVAc9S80)
+- 03 May 2020 - GDG DevParty Together 🇮🇹 [Micro Frontends: Breaking up the Monolith](https://youtu.be/NevD6AlZP6I?list=PLP7BVzStXmbBykvsvTfjE8U1DDd1JnoqA&t=17396)
+- 16 Apr 2020 - MUG Marca User Group 🇮🇹 [Micro Frontends: Breaking up the Monolith](https://www.youtube.com/watch?v=iH3T4DvUIXU)
 
 <!--
 ### Work
