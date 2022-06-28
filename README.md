@@ -17,7 +17,7 @@ I'm very ambitious and I try to improve myself every day. :rocket:
 - 18 Nov 2022 - ModernFrontends 🇬🇧 Serverless production ready with Svelte + AWS Cognito and Amplify
 - 24 Oct 2022 - iJS Munich 🇩🇪 Strategic Testing Decisions
 - 14 Jun 2022 - WeAreDevelopers World Congress 🇩🇪 From Angular to React due the Cryptocurrencies
-- 09 Feb 2022 - JSWORLD Conference 🇳🇱 [Serverless Production Ready with Svelte + AWS Incognito and Amplify](https://youtu.be/i4lEouGQ2z8)
+- 09 Feb 2022 - JSWORLD Conference 🇳🇱 [Serverless Production Ready with Svelte](https://youtu.be/i4lEouGQ2z8)
 
 Meetups
 
