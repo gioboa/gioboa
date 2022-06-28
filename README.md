@@ -14,13 +14,16 @@ I'm very ambitious and I try to improve myself every day. :rocket:
 
 #### Conferences
 
+- 18 Nov 2022 - ModernFrontends 🇬🇧 Serverless production ready with Svelte + AWS Cognito and Amplify
+- 24 Oct 2022 - iJS Munich 🇩🇪 Strategic Testing Decisions
 - 14 Jun 2022 - WeAreDevelopers World Congress 🇩🇪 From Angular to React due the Cryptocurrencies
 - 09 Fab 2022 - JSWORLD Conference 🇳🇱 [Serverless Production Ready with Svelte + AWS Incognito and Amplify](https://youtu.be/i4lEouGQ2z8)
 
 Meetups
 
-- 18 May 2021 - Codemotion 🇮🇹 [Micro Frontends: Tante soluzioni per un futuro migliore](https://talks.codemotion.com/micro-frontends-tante-soluzioni-per-un-f)
-- 04 May 2021 - Codemotion 🇮🇹 [Micro Frontends: Le più robuste tecniche di orchestrazione](https://talks.codemotion.com/microfronted-le-pi-robuste-tecniche-di-o)
+- 18 May 2022 - Codemotion 🇮🇹 [Micro Frontends: Tante soluzioni per un futuro migliore](https://talks.codemotion.com/micro-frontends-tante-soluzioni-per-un-f)
+- 04 May 2022 - Codemotion 🇮🇹 [Micro Frontends: Le più robuste tecniche di orchestrazione](https://talks.codemotion.com/microfronted-le-pi-robuste-tecniche-di-o)
+- 21 Jan 2022 - Crafted Software Milan 🇮🇹 [Effective Remote Working](https://www.youtube.com/watch?v=JXtG0ePZpmY)
 
 ### 2021
 
@@ -44,6 +47,12 @@ Workshops
 - 18 Oct 2020 - DevFest Italia 2020   🇮🇹 [Lunga vita a community 🥳 & open source 💻](https://www.youtube.com/watch?v=CcYJVAc9S80)
 - 03 May 2020 - GDG DevParty Together 🇮🇹 [Micro Frontends: Breaking up the Monolith](https://youtu.be/NevD6AlZP6I?list=PLP7BVzStXmbBykvsvTfjE8U1DDd1JnoqA&t=17396)
 - 16 Apr 2020 - MUG Marca User Group  🇮🇹 [Micro Frontends: Breaking up the Monolith](https://www.youtube.com/watch?v=iH3T4DvUIXU)
+
+Meetups
+
+- 11 Jun 2020 - Dev Community Night 🇮🇹 Dallo sviluppo alla produzione con Docker
+- 04 Jun 2020 - Dev Community Night 🇮🇹 Git: il tool che ogni sviluppatore dovrebbe utilizzare!
+
 
 <!--
 ### Work
