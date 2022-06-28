@@ -35,6 +35,7 @@ Meetups
 Meetups
 
 - 16 Dic 2021 - Frontend RheinMain 🇩🇪 [Effort optimization with Svelte + AWS](https://www.youtube.com/watch?v=j9absknhOmk)
+- 19 May 2021 - FEVR 🇮🇹 [Serverless production ready with Svelte](https://www.youtube.com/watch?v=NE64tgpOpZM)
 - 18 Mar 2021 - Commit University 🇮🇹 [Leggerezza + semplicità ^ 2 = Svelte](https://youtu.be/7CUSv5L9_Ik?t=1296)
 
 Workshops
