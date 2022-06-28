@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a t-shaped developer and the front-end ecosystem is my passion.<br>
+I'm a full stack developer and the front-end ecosystem is my passion.<br>
 I started to develop application in 2006 and in 2012 I fall in love with JavaScript.<br>
 I'm also active in open source ecosystem, I love learn and study new things.<br>
 I also really enjoy public speaking and sharing my experiences. I’m currently managing [italianCoders](https://italiancoders.it/) community.<br>
