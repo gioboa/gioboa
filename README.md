@@ -5,7 +5,8 @@
 I'm a full stack developer and the front-end ecosystem is my passion.<br>
 I started to develop application in 2006 and in 2012 I fall in love with JavaScript.<br>
 I'm also active in open source ecosystem, I love learn and study new things.<br>
-I also really enjoy public speaking and sharing my experiences.<br>I’m currently managing [italianCoders](https://italiancoders.it/) community.<br>
+I also really enjoy public speaking and sharing my experiences.<br>
+I’m currently managing [italianCoders](https://www.youtube.com/c/italiancoders) community.<br>
 I'm very ambitious and I try to improve myself every day. :rocket:
 
 ## I'm really happy to share my experience at conferences and meetups :+1:
