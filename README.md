@@ -15,7 +15,14 @@ Now I want to give something back in my spare time 💪😊<br><br>
 
 ### Contacts
 
-Reach me on [Twitter](https://twitter.com/giorgio_boa) or [LinkedIn](https://it.linkedin.com/in/giorgio-boa)<br><br>
+<a href="https://twitter.com/giorgio_boa">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+</a> 
+<a href="https://it.linkedin.com/in/giorgio-boa">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a>
+
+###
 
 ![My GitHub](https://github-readme-stats.vercel.app/api?theme=dracula&username=gioboa&count_private=true&show_icons=true&custom_title=My+stats&include_all_commits=true)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dracula&username=gioboa&hide=html,php,css&count_private=true&show_icons=true&layout=compact)
