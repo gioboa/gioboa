@@ -15,12 +15,11 @@ Now I want to give something back in my spare time 💪😊<br><br>
 
 ### Contacts
 
-<a href="https://twitter.com/giorgio_boa">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-</a> 
-<a href="https://it.linkedin.com/in/giorgio-boa">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a>
+<p align="left"> 
+<a href="https://twitter.com/giorgio_boa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+&nbsp; 
+<a href="https://it.linkedin.com/in/giorgio-boa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
 
 ###
 
