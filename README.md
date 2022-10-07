@@ -35,6 +35,7 @@ Now I want to give something back in my spare time 💪😊<br><br>
 
 - 18 Nov 2022 - ModernFrontends 🇬🇧 Serverless production ready with Svelte + AWS Cognito and Amplify
 - 24 Oct 2022 - iJS Munich 🇩🇪 Strategic Testing Decisions
+- 18 Oct 2022 - Codemotion Milan 🇮🇹 Frontend Panel
 - 28 Sep 2022 - JavaScript Global Summit 🌏 Micro-frontends with Svelte & Module Federation
 - 14 Jun 2022 - WeAreDevelopers World Congress 🇩🇪 From Angular to React due the Cryptocurrencies
 - 09 Feb 2022 - JSWORLD Conference 🇳🇱 [Serverless Production Ready with Svelte](https://youtu.be/i4lEouGQ2z8)
