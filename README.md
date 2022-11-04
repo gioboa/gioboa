@@ -33,6 +33,9 @@ Now I want to give something back in my spare time 💪😊<br><br>
 
 #### Conferences
 
+- 02 Dec 2022 - React Day Berlin 🇩🇪 Get rid of your API schemas with tRPC
+- 23 Nov 2022 - Marca User Group 🇮🇹 Micro-frontends with Svelte & Module Federation
+- 22 Nov 2022 - Angular Meetup Graz 🌏 Spotify-Clone with Module Federation
 - 18 Nov 2022 - ModernFrontends 🇬🇧 Serverless production ready with Svelte + AWS Cognito and Amplify
 - 24 Oct 2022 - iJS Munich 🇩🇪 Strategic Testing Decisions
 - 18 Oct 2022 - Codemotion Milan 🇮🇹 Frontend Panel
