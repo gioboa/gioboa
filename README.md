@@ -28,6 +28,13 @@ Now I want to give something back in my spare time 💪😊<br><br>
 
 ## My public activity timeline
 
+### 2023
+
+#### Conferences
+
+- 08 Feb 2023 - JSWorld 🇳🇱 Qwik: web revolution by default
+- 18 Jan 2023 - RomaJS 🇮🇹 Qwik, why is it so cool?
+
 ### 2022
 
 #### Conferences
