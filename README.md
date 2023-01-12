@@ -20,12 +20,13 @@ Now I want to give something back in my spare time 💪😊<br><br>
 <a href="https://it.linkedin.com/in/giorgio-boa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
+<!--
 ###
-
+ 
 ![My GitHub](https://github-readme-stats.vercel.app/api?theme=dracula&username=gioboa&count_private=true&show_icons=true&custom_title=My+stats&include_all_commits=true)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dracula&username=gioboa&hide=html,php,css&count_private=true&show_icons=true&layout=compact)
 <br><br>
-
+-->
 ## My public activity timeline
 
 ### 2023
