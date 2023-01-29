@@ -33,6 +33,7 @@ Now I want to give something back in my spare time 💪😊<br><br>
 
 #### Conferences
 
+- 27 Feb 2023 - SvelteSociety 🇬🇧 Micro-frontends with Svelte & Module Federation
 - 08 Feb 2023 - JSWorld 🇳🇱 Qwik: web revolution by default
 - 18 Jan 2023 - RomaJS 🇮🇹 Qwik: il framework con una marcia in più
 
