@@ -34,7 +34,10 @@ Now I want to give something back in my spare time 💪😊<br><br>
 #### Conferences
 
 - 27 Feb 2023 - SvelteSociety 🇬🇧 Micro-frontends with Svelte & Module Federation
+- 22 Feb 2023 - Filestack conf 🌏 A Qwik Integration to File Management
+- 21 Feb 2023 - Qwik Night 🌏 Let's talk about Qwik
 - 08 Feb 2023 - JSWorld 🇳🇱 Qwik: web revolution by default
+- 27 Jan 2023 - Qwik LiveStream 🌏 Qwik: the new framework
 - 18 Jan 2023 - RomaJS 🇮🇹 Qwik: il framework con una marcia in più
 
 ### 2022
