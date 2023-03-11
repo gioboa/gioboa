@@ -38,6 +38,7 @@ Now I want to give something back in my spare time 💪😊<br><br>
 
 #### Meetups
 
+- 14 Mar - ReactJS Milano 🇮🇹 Qwik, il framework che ti stupirà
 - 27 Feb - SvelteSociety 🇬🇧 Micro-frontends with Svelte & Module Federation
 - 21 Feb - Qwik Night 🌏 Let's talk about Qwik
 - 27 Jan - Qwik LiveStream 🌏 Qwik: the new framework
@@ -45,7 +46,8 @@ Now I want to give something back in my spare time 💪😊<br><br>
 
 #### Podcasts
 
-- 10 Mar - WeAreDevelopers 🎙️ Public Speaking
+- 14 Mar - SparkFabrik 🎙️ Let's talk about my open source path
+- 10 Mar - WeAreDevelopers 🎙️ My public speaking experience
 
 ### 2022
 
