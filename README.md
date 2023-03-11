@@ -33,11 +33,13 @@ Now I want to give something back in my spare time 💪😊<br><br>
 
 #### Conferences
 
+- 10 May - Codemotion Madrid 🇪🇸 Micro-frontends with Svelte & Module Federation
 - 22 Feb - Filestack conf 🌏 A Qwik Integration to File Management
 - 08 Feb - JSWorld 🇳🇱 Qwik: web revolution by default
 
 #### Meetups
 
+- 30 Mar - React Berlin 🇩🇪 Micro-frontends with Vite & Module Federation: yes, we can 
 - 14 Mar - ReactJS Milano 🇮🇹 Qwik, il framework che ti stupirà
 - 27 Feb - SvelteSociety 🇬🇧 Micro-frontends with Svelte & Module Federation
 - 21 Feb - Qwik Night 🌏 Let's talk about Qwik
