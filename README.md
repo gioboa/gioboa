@@ -33,6 +33,8 @@ Now I want to give something back in my spare time 💪😊<br><br>
 
 #### Conferences
 
+- 06 Jun - VUE.JS Global Summit 🌏 tRPC: API schemas are pure overhead
+- 20 May - XE One Day - App modernization 🇮🇹 Qwik, il framework che ti stupirà
 - 10 May - Codemotion Madrid 🇪🇸 Micro-frontends with Svelte & Module Federation
 - 22 Feb - Filestack conf 🌏 A Qwik Integration to File Management
 - 08 Feb - JSWorld 🇳🇱 Qwik: web revolution by default
