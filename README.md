@@ -33,68 +33,75 @@ Now I want to give something back in my spare time 💪😊<br><br>
 
 #### Conferences
 
-- 27 Feb 2023 - SvelteSociety 🇬🇧 Micro-frontends with Svelte & Module Federation
-- 22 Feb 2023 - Filestack conf 🌏 A Qwik Integration to File Management
-- 21 Feb 2023 - Qwik Night 🌏 Let's talk about Qwik
-- 08 Feb 2023 - JSWorld 🇳🇱 Qwik: web revolution by default
-- 27 Jan 2023 - Qwik LiveStream 🌏 Qwik: the new framework
-- 18 Jan 2023 - RomaJS 🇮🇹 Qwik: il framework con una marcia in più
+- 22 Feb - Filestack conf 🌏 A Qwik Integration to File Management
+- 08 Feb - JSWorld 🇳🇱 Qwik: web revolution by default
+
+#### Meetups
+
+- 27 Feb - SvelteSociety 🇬🇧 Micro-frontends with Svelte & Module Federation
+- 21 Feb - Qwik Night 🌏 Let's talk about Qwik
+- 27 Jan - Qwik LiveStream 🌏 Qwik: the new framework
+- 18 Jan - RomaJS 🇮🇹 Qwik: il framework con una marcia in più
+
+#### Podcasts
+
+- 10 Mar - WeAreDevelopers 🎙️ Public Speaking
 
 ### 2022
 
 #### Conferences
 
-- 02 Dec 2022 - React Day Berlin 🇩🇪 Get rid of your API schemas with tRPC
-- 23 Nov 2022 - Marca User Group 🇮🇹 Micro-frontends with Svelte & Module Federation
-- 22 Nov 2022 - Angular Meetup Graz 🌏 Spotify-Clone with Module Federation
-- 18 Nov 2022 - ModernFrontends 🇬🇧 Serverless production ready with Svelte + AWS Cognito and Amplify
-- 24 Oct 2022 - iJS Munich 🇩🇪 Strategic Testing Decisions
-- 18 Oct 2022 - Codemotion Milan 🇮🇹 Frontend Panel
-- 28 Sep 2022 - JavaScript Global Summit 🌏 Micro-frontends with Svelte & Module Federation
-- 14 Jun 2022 - WeAreDevelopers World Congress 🇩🇪 From Angular to React due the Cryptocurrencies
-- 09 Feb 2022 - JSWORLD Conference 🇳🇱 [Serverless Production Ready with Svelte](https://youtu.be/i4lEouGQ2z8)
+- 02 Dec - React Day Berlin 🇩🇪 Get rid of your API schemas with tRPC
+- 23 Nov - Marca User Group 🇮🇹 Micro-frontends with Svelte & Module Federation
+- 22 Nov - Angular Meetup Graz 🌏 Spotify-Clone with Module Federation
+- 18 Nov - ModernFrontends 🇬🇧 Serverless production ready with Svelte + AWS Cognito and Amplify
+- 24 Oct - iJS Munich 🇩🇪 Strategic Testing Decisions
+- 18 Oct - Codemotion Milan 🇮🇹 Frontend Panel
+- 28 Sep - JavaScript Global Summit 🌏 Micro-frontends with Svelte & Module Federation
+- 14 Jun - WeAreDevelopers World Congress 🇩🇪 From Angular to React due the Cryptocurrencies
+- 09 Feb - JSWORLD Conference 🇳🇱 [Serverless Production Ready with Svelte](https://youtu.be/i4lEouGQ2z8)
 
 #### Meetups
 
-- 18 May 2022 - Codemotion 🇮🇹 [Micro Frontends: Tante soluzioni per un futuro migliore](https://talks.codemotion.com/micro-frontends-tante-soluzioni-per-un-f)
-- 04 May 2022 - Codemotion 🇮🇹 [Micro Frontends: Le più robuste tecniche di orchestrazione](https://talks.codemotion.com/microfronted-le-pi-robuste-tecniche-di-o)
-- 21 Jan 2022 - Crafted Software Milan 🇮🇹 [Effective Remote Working](https://www.youtube.com/watch?v=JXtG0ePZpmY)
+- 18 May - Codemotion 🇮🇹 [Micro Frontends: Tante soluzioni per un futuro migliore](https://talks.codemotion.com/micro-frontends-tante-soluzioni-per-un-f)
+- 04 May - Codemotion 🇮🇹 [Micro Frontends: Le più robuste tecniche di orchestrazione](https://talks.codemotion.com/microfronted-le-pi-robuste-tecniche-di-o)
+- 21 Jan - Crafted Software Milan 🇮🇹 [Effective Remote Working](https://www.youtube.com/watch?v=JXtG0ePZpmY)
 
 #### Podcasts
 
-- 30 Jun 2022 - Gitbar 🇮🇹 [Ep.121 - Svelte e dintorni con Giorgio Boa](https://open.spotify.com/episode/7vRTQrhWyVzWSyfjvJO33J)
+- 30 Jun - Gitbar 🎙️ [Ep.121 - Svelte e dintorni con Giorgio Boa](https://open.spotify.com/episode/7vRTQrhWyVzWSyfjvJO33J)
 
 ### 2021
 
 #### Conferences
 
-- 20 Nov 2021 - Svelte Summit Fall 2021 🇸🇪 Serverless production ready with Svelte + AWS Cognito and Amplify
+- 20 Nov - Svelte Summit Fall 2021 🇸🇪 Serverless production ready with Svelte + AWS Cognito and Amplify
 
 #### Meetups
 
-- 16 Dic 2021 - Frontend RheinMain 🇩🇪 [Effort optimization with Svelte + AWS](https://www.youtube.com/watch?v=j9absknhOmk)
-- 19 May 2021 - FEVR 🇮🇹 [Serverless production ready with Svelte](https://www.youtube.com/watch?v=NE64tgpOpZM)
-- 18 Mar 2021 - Commit University 🇮🇹 [Leggerezza + semplicità ^ 2 = Svelte](https://youtu.be/7CUSv5L9_Ik?t=1296)
+- 16 Dic - Frontend RheinMain 🇩🇪 [Effort optimization with Svelte + AWS](https://www.youtube.com/watch?v=j9absknhOmk)
+- 19 May - FEVR 🇮🇹 [Serverless production ready with Svelte](https://www.youtube.com/watch?v=NE64tgpOpZM)
+- 18 Mar - Commit University 🇮🇹 [Leggerezza + semplicità ^ 2 = Svelte](https://youtu.be/7CUSv5L9_Ik?t=1296)
 
 #### Workshops
 
-- 25 Mar 2021 - Online Tech Conference - Italian Edition 🇮🇹 [#FlutterYourFantasy - let's listen to some good music!](https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-spring/workshops)
+- 25 Mar - Online Tech Conference - Italian Edition 🇮🇹 [#FlutterYourFantasy - let's listen to some good music!](https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-spring/workshops)
 
 #### Podcasts
 
-- 31 Mar 2021 - PointerPodcast 🇮🇹 [Pointer[45]: Quattro Chiacchiere Con ItalianCoders](https://open.spotify.com/episode/4w9OcdDihRBAiol6ZWYLQc)
-- 19 Feb 2021 - Schrödinger Hat 🇮🇹 [ExpStories - Giorgio Boa](https://open.spotify.com/episode/0PBIUaWpJMrGEi9Jo9CrXl)
+- 31 Mar - PointerPodcast 🎙️ [Pointer[45]: Quattro Chiacchiere Con ItalianCoders](https://open.spotify.com/episode/4w9OcdDihRBAiol6ZWYLQc)
+- 19 Feb - Schrödinger Hat 🎙️ [ExpStories - Giorgio Boa](https://open.spotify.com/episode/0PBIUaWpJMrGEi9Jo9CrXl)
 
 ### 2020
 
 #### Conferences
 
-- 18 Oct 2020 - DevFest Italia 2020 🇮🇹 [Lunga vita a community 🥳 & open source 💻](https://www.youtube.com/watch?v=CcYJVAc9S80)
-- 03 May 2020 - GDG DevParty Together 🇮🇹 [Micro Frontends: Breaking up the Monolith](https://youtu.be/NevD6AlZP6I?list=PLP7BVzStXmbBykvsvTfjE8U1DDd1JnoqA&t=17396)
-- 16 Apr 2020 - MUG Marca User Group 🇮🇹 [Micro Frontends: Breaking up the Monolith](https://www.youtube.com/watch?v=iH3T4DvUIXU)
+- 18 Oct - DevFest Italia 2020 🇮🇹 [Lunga vita a community 🥳 & open source 💻](https://www.youtube.com/watch?v=CcYJVAc9S80)
+- 03 May - GDG DevParty Together 🇮🇹 [Micro Frontends: Breaking up the Monolith](https://youtu.be/NevD6AlZP6I?list=PLP7BVzStXmbBykvsvTfjE8U1DDd1JnoqA&t=17396)
+- 16 Apr - MUG Marca User Group 🇮🇹 [Micro Frontends: Breaking up the Monolith](https://www.youtube.com/watch?v=iH3T4DvUIXU)
 
 #### Meetups
 
-- 25 Jun 2020 - Devmy 🇮🇹 [Framework...facciamo in fretta, anzi facciamo Svelte!](https://www.youtube.com/watch?v=VjcxPGMEhBo)
-- 11 Jun 2020 - Dev Community Night 🇮🇹 Dallo sviluppo alla produzione con Docker
-- 04 Jun 2020 - Dev Community Night 🇮🇹 Git: il tool che ogni sviluppatore dovrebbe utilizzare!
+- 25 Jun - Devmy 🇮🇹 [Framework...facciamo in fretta, anzi facciamo Svelte!](https://www.youtube.com/watch?v=VjcxPGMEhBo)
+- 11 Jun - Dev Community Night 🇮🇹 Dallo sviluppo alla produzione con Docker
+- 04 Jun - Dev Community Night 🇮🇹 Git: il tool che ogni sviluppatore dovrebbe utilizzare!
