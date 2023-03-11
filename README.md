@@ -33,6 +33,9 @@ Now I want to give something back in my spare time 💪😊<br><br>
 
 #### Conferences
 
+- 20 Sep - JavaScript Global Summit 🌏 Serverless application with React & AWS
+- 27 Jun - Developer Week 🇩🇪 Qwik: a new era has started
+- 12 Jun - Micro Frontends Conference 🌏 Micro Frontends with Qwik: Never Been Easier
 - 06 Jun - VUE.JS Global Summit 🌏 tRPC: API schemas are pure overhead
 - 20 May - XE One Day - App modernization 🇮🇹 Qwik, il framework che ti stupirà
 - 10 May - Codemotion Madrid 🇪🇸 Micro-frontends with Svelte & Module Federation
