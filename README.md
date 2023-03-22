@@ -44,6 +44,8 @@ Now I want to give something back in my spare time 💪😊<br><br>
 
 #### Meetups
 
+- 26 Apr - Qwik Amsterdam 🇳🇱 Qwik: Intro
+- 13 Apr - Developers Shore 🌏 Workshop
 - 30 Mar - React Berlin 🇩🇪 Micro-frontends with Vite & Module Federation: yes, we can 
 - 14 Mar - ReactJS Milano 🇮🇹 Qwik, il framework che ti stupirà
 - 27 Feb - SvelteSociety 🇬🇧 Micro-frontends with Svelte & Module Federation
@@ -53,6 +55,7 @@ Now I want to give something back in my spare time 💪😊<br><br>
 
 #### Podcasts
 
+- 28 Mar - The Developers' Bakery 🎙️ Qwik UI library
 - 14 Mar - SparkFabrik 🎙️ Let's talk about my open source path
 - 10 Mar - WeAreDevelopers 🎙️ My public speaking experience
 
