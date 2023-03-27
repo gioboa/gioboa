@@ -55,7 +55,7 @@ Now I want to give something back in my spare time 💪😊<br><br>
 
 #### Podcasts
 
-- 28 Mar - The Developers' Bakery 🎙️ Qwik UI library
+- 04 Apr - The Developers' Bakery 🎙️ Qwik UI library
 - 14 Mar - SparkFabrik 🎙️ Let's talk about my open source path
 - 10 Mar - WeAreDevelopers 🎙️ My public speaking experience
 
