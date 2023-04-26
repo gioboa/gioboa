@@ -44,7 +44,7 @@ Now I want to give something back in my spare time 💪😊<br><br>
 
 #### Meetups
 
-- 26 Apr - Qwik Amsterdam 🇳🇱 Qwik: Intro
+- 26 Apr - Qwik Amsterdam 🇳🇱 Qwik: a new mental model is here
 - 13 Apr - Developers Shore 🌏 Qwik: a new mental model is here
 - 30 Mar - React Berlin 🇩🇪 Micro-frontends with Vite & Module Federation: yes, we can 
 - 14 Mar - ReactJS Milano 🇮🇹 Qwik, il framework che ti stupirà
@@ -55,9 +55,9 @@ Now I want to give something back in my spare time 💪😊<br><br>
 
 #### Podcasts
 
-- 04 Apr - The Developers' Bakery 🎙️ Qwik UI library
+- 25 Apr - The Developers' Bakery 🎙️ Qwik UI with Giorgio Boa
+- 18 Apr - WeAreDevelopers 🎙️ Mastering Public Speaking
 - 14 Mar - SparkFabrik 🎙️ Let's talk about my open source path
-- 10 Mar - WeAreDevelopers 🎙️ My public speaking experience
 
 ### 2022
 
