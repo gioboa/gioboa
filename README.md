@@ -55,6 +55,7 @@ Now I want to give something back in my spare time 💪😊<br><br>
 
 #### Podcasts
 
+- 03 May - The Code and Coffee Show 🎙️ Learn Qwik
 - 25 Apr - The Developers' Bakery 🎙️ Qwik UI with Giorgio Boa
 - 18 Apr - WeAreDevelopers 🎙️ Mastering Public Speaking
 - 14 Mar - SparkFabrik 🎙️ Let's talk about my open source path
