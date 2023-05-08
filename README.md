@@ -35,6 +35,7 @@ Now I want to give something back in my spare time 💪😊<br><br>
 
 - 20 Oct - React Advanced 🇬🇧 Micro-frontends with React and Vite Module Federation
 - 20 Sep - JavaScript Global Summit 🌏 Serverless application with React & AWS
+- 28 Jul - WeAreDevelopers World Congress 🇩🇪 tRPC: API schemas are pure overhead
 - 27 Jun - Developer Week 🇩🇪 Qwik: a new era has started
 - 12 Jun - Micro Frontends Conference 🌏 Micro Frontends with Qwik: Never Been Easier
 - 06 Jun - VUE.JS Global Summit 🌏 tRPC: API schemas are pure overhead
@@ -67,7 +68,6 @@ Now I want to give something back in my spare time 💪😊<br><br>
 #### Conferences
 
 - 02 Dec - React Day Berlin 🇩🇪 Get rid of your API schemas with tRPC
-- 23 Nov - Marca User Group 🇮🇹 Micro-frontends with Svelte & Module Federation
 - 22 Nov - Angular Meetup Graz 🌏 Spotify-Clone with Module Federation
 - 18 Nov - ModernFrontends 🇬🇧 Serverless production ready with Svelte + AWS Cognito and Amplify
 - 24 Oct - iJS Munich 🇩🇪 Strategic Testing Decisions
@@ -78,6 +78,7 @@ Now I want to give something back in my spare time 💪😊<br><br>
 
 #### Meetups
 
+- 23 Nov - Marca User Group 🇮🇹 Micro-frontends with Svelte & Module Federation
 - 18 May - Codemotion 🇮🇹 [Micro Frontends: Tante soluzioni per un futuro migliore](https://talks.codemotion.com/micro-frontends-tante-soluzioni-per-un-f)
 - 04 May - Codemotion 🇮🇹 [Micro Frontends: Le più robuste tecniche di orchestrazione](https://talks.codemotion.com/microfronted-le-pi-robuste-tecniche-di-o)
 - 21 Jan - Crafted Software Milan 🇮🇹 [Effective Remote Working](https://www.youtube.com/watch?v=JXtG0ePZpmY)
