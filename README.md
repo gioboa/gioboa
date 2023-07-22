@@ -33,7 +33,7 @@ Now I want to give something back in my spare time 💪😊<br><br>
 
 #### Conferences
 
-- 20 Oct - React Advanced 🇬🇧 Micro-frontends with React and Vite Module Federation
+- 23 Oct - React Advanced 🇬🇧 Micro-frontends with React and Vite Module Federation
 - 29 Sep - ReactLive 🇳🇱 Improve your React hydration with Qwik
 - 20 Sep - JavaScript Global Summit 🌏 Serverless application with React & AWS
 - 28 Jul - WeAreDevelopers World Congress 🇩🇪 tRPC: API schemas are pure overhead
