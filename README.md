@@ -33,6 +33,7 @@ Now I want to give something back in my spare time 💪😊<br><br>
 
 #### Conferences
 
+- 24 Oct - Codemotion Milan 🇮🇹 Building Performant Applications at Scale with Qwik-City
 - 23 Oct - React Advanced 🇬🇧 Micro-frontends with React and Vite Module Federation
 - 29 Sep - ReactLive 🇳🇱 Improve your React hydration with Qwik
 - 20 Sep - JavaScript Global Summit 🌏 Serverless application with React & AWS
