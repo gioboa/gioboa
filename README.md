@@ -36,6 +36,7 @@ Now I want to give something back in my spare time 💪😊<br><br>
 - 24 Oct - Codemotion Milan 🇮🇹 Building Performant Applications at Scale with Qwik-City
 - 23 Oct - React Advanced 🇬🇧 Micro-frontends with React and Vite Module Federation
 - 29 Sep - ReactLive 🇳🇱 Improve your React hydration with Qwik
+- 21 Sep - Commit Software 🇮🇹 Qwik, il framework che ti stupirà
 - 20 Sep - JavaScript Global Summit 🌏 Serverless application with React & AWS
 - 28 Jul - WeAreDevelopers World Congress 🇩🇪 tRPC: API schemas are pure overhead
 - 27 Jun - Developer Week 🇩🇪 Qwik: a new era has started
