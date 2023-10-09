@@ -50,6 +50,7 @@ Now I want to give something back in my spare time 💪😊<br><br>
 
 #### Meetups
 
+- 05 Oct - YouTube 🇮🇹 È Qwik il framework del futuro?
 - 04 Jul - YouTube Devmy 🇮🇹 Open Source: non è un paese per scrocconi
 - 26 Apr - Qwik Amsterdam 🇳🇱 Qwik: a new mental model is here
 - 13 Apr - Developers Shore 🌏 Qwik: a new mental model is here
