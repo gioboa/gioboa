@@ -33,6 +33,8 @@ Now I want to give something back in my spare time 💪😊<br><br>
 
 #### Conferences
 
+- 02 Dec - DevFest Venice 🇮🇹 Open source, from zero to my hero: Valentino Rossi
+- 11 Nov - DevFest Trento 🇮🇹 Open source, from zero to my hero: Valentino Rossi
 - 24 Oct - Codemotion Milan 🇮🇹 Building Performant Applications at Scale with Qwik-City
 - 23 Oct - React Advanced 🇬🇧 Micro-frontends with React and Vite Module Federation
 - 29 Sep - ReactLive 🇳🇱 Improve your React hydration with Qwik
@@ -50,6 +52,7 @@ Now I want to give something back in my spare time 💪😊<br><br>
 
 #### Meetups
 
+- 12 Oct - Marca User Group 🇮🇹 Open source, from zero to my hero: Valentino Rossi
 - 05 Oct - YouTube 🇮🇹 È Qwik il framework del futuro?
 - 04 Jul - YouTube Devmy 🇮🇹 Open Source: non è un paese per scrocconi
 - 26 Apr - Qwik Amsterdam 🇳🇱 Qwik: a new mental model is here
