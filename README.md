@@ -7,10 +7,6 @@ I started to develop application in 2006 and in 2012 I fall in love with JavaScr
 I'm also active in open source ecosystem, I love learn and study new things<br>
 I also really enjoy public speaking and sharing my experiences<br>
 I'm very ambitious and I try to improve myself every day :rocket:<br><br>
-👇 I'm giving FREE mentoring<br>
-In all these years I learned a lot from communities and open source ❤️<br>
-Now I want to give something back in my spare time 💪😊<br><br>
-<a href="https://mentorcruise.com/mentor/giorgioboa/"> <img src="https://cdn.mentorcruise.com/img/banner/sky-sm.svg" width="240" alt="MentorCruise"> </a><br>
 
 ### Contacts
 
@@ -26,7 +22,7 @@ Now I want to give something back in my spare time 💪😊<br><br>
 ![My GitHub](https://github-readme-stats.vercel.app/api?theme=dracula&username=gioboa&count_private=true&show_icons=true&custom_title=My+stats&include_all_commits=true)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dracula&username=gioboa&hide=html,php,css&count_private=true&show_icons=true&layout=compact)
 <br><br>
--->
+
 ## My public activity timeline
 
 ### 2023
@@ -129,3 +125,4 @@ Now I want to give something back in my spare time 💪😊<br><br>
 - 25 Jun - Devmy 🇮🇹 [Framework...facciamo in fretta, anzi facciamo Svelte!](https://www.youtube.com/watch?v=VjcxPGMEhBo)
 - 11 Jun - Dev Community Night 🇮🇹 Dallo sviluppo alla produzione con Docker
 - 04 Jun - Dev Community Night 🇮🇹 Git: il tool che ogni sviluppatore dovrebbe utilizzare!
+-->
