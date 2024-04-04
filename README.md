@@ -8,6 +8,8 @@ I'm also active in open source ecosystem, I love learn and study new things<br>
 I also really enjoy public speaking and sharing my experiences<br>
 I'm very ambitious and I try to improve myself every day :rocket:<br><br>
 
+<!--
+
 ### Contacts
 
 <p align="left"> 
@@ -16,7 +18,7 @@ I'm very ambitious and I try to improve myself every day :rocket:<br><br>
 <a href="https://it.linkedin.com/in/giorgio-boa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
-<!--
+
 ###
  
 ![My GitHub](https://github-readme-stats.vercel.app/api?theme=dracula&username=gioboa&count_private=true&show_icons=true&custom_title=My+stats&include_all_commits=true)<br>
