@@ -25,6 +25,8 @@ I'm very ambitious and I try to improve myself every day :rocket:<br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dracula&username=gioboa&hide=html,php,css&count_private=true&show_icons=true&layout=compact)
 <br><br>
 
+-->
+
 ## My public activity timeline
 
 ### 2023
@@ -127,4 +129,4 @@ I'm very ambitious and I try to improve myself every day :rocket:<br><br>
 - 25 Jun - Devmy 🇮🇹 [Framework...facciamo in fretta, anzi facciamo Svelte!](https://www.youtube.com/watch?v=VjcxPGMEhBo)
 - 11 Jun - Dev Community Night 🇮🇹 Dallo sviluppo alla produzione con Docker
 - 04 Jun - Dev Community Night 🇮🇹 Git: il tool che ogni sviluppatore dovrebbe utilizzare!
--->
+
