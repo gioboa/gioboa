@@ -1,12 +1,15 @@
 ## Hi everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%">
 
 ### About me
+I'm a passionate Full Stack Developer currently working at Qarik, where I leverage my extensive experience in building applications.<br>
+My journey led me to discover the power of JavaScript, and I've been deeply involved in the front-end ecosystem.<br><br>
 
-I'm a full stack developer and the front-end ecosystem is my passion<br>
-I started to develop application in 2006 and in 2012 I fall in love with JavaScript<br><br>
-I'm also active in open source ecosystem, I love learn and study new things<br>
-I also really enjoy public speaking and sharing my experiences<br>
-I'm very ambitious and I try to improve myself every day :rocket:<br><br>
+As a core team member of Qwik, an open-source project, I actively contribute to its development and the wider OSS community.<br>
+I'm an avid learner, constantly seeking new challenges and knowledge to enhance my skills.<br><br>
+
+Sharing my expertise with others is a true passion of mine.<br>
+I'm an international speaker, engaging audiences worldwide and contributing to the global tech community.<br>
+My ambition drives me to improve myself daily, always striving for excellence in my craft.:rocket:<br><br>
 
 <!--
 
