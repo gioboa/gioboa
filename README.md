@@ -15,6 +15,21 @@ My ambition drives me to improve myself daily, always striving for excellence in
 
 <!--
 
+Giorgio Boa is a passionate Full Stack Developer currently working at Qarik, where he leverages extensive experience in building applications.
+His journey led to the discovery of the power of JavaScript, and he has been deeply involved in the front-end ecosystem.
+As a core team member of Qwik, an open-source project, Giorgio actively contributes to its development and the wider OSS community.
+He is an avid learner, constantly seeking new challenges and knowledge to enhance his skills.
+Sharing expertise with others is a true passion for Giorgio. He is an international speaker, engaging audiences worldwide and contributing to the global tech community.
+His ambition drives him to improve daily, always striving for excellence in his craft. 🚀
+
+Giorgio Boa è un appassionato Full Stack Developer che attualmente lavora presso Qarik, dove sfrutta la sua vasta esperienza nella creazione di applicazioni.
+Il suo percorso lo ha portato alla scoperta della potenza di JavaScript ed è particolarmente innamorato dell'ecosistema front-end.
+Come membro del team principale di Qwik, un framework open source, Giorgio contribuisce attivamente al suo sviluppo ed in manieta più ampia e' molto attivo nella comunità OSS.
+È molto curioso, alla continua ricerca di nuove sfide e conoscenze per migliorare le sue competenze.
+Condividere le competenze con gli altri è una vera passione per Giorgio.
+È un oratore internazionale, coinvolge il pubblico in tutto il mondo e contribuisce alla comunità tecnologica globale.
+La sua ambizione lo spinge a migliorare ogni giorno, puntando sempre all'eccellenza nel suo mestiere. 🚀
+
 ### Contacts
 
 <p align="left"> 
