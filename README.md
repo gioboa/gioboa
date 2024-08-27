@@ -3,12 +3,15 @@
 ### About me
 I'm a passionate Full Stack Developer currently working at Qarik, where I leverage my extensive experience in building applications.<br>
 My journey led me to discover the power of JavaScript, and I've been deeply involved in the front-end ecosystem.<br>
-💻 As a core team member of Qwik, an open-source project, I actively contribute to its development and the wider OSS community.<br>
-I'm an avid learner, constantly seeking new challenges and knowledge to enhance my skills.<br><br>
 
-🎤Sharing my expertise with others is a true passion of mine.<br>
+### Open-source
+As a core team member of Qwik, an open-source project, I actively contribute to its development and the wider OSS community.<br>
+I'm an avid learner, constantly seeking new challenges and knowledge to enhance my skills.<br>
+
+### International speaker
+Sharing my expertise with others is a true passion of mine.<br>
 I'm an international speaker, engaging audiences worldwide and contributing to the global tech community.<br>
-My ambition drives me to improve myself daily, always striving for excellence in my craft. 🚀<br><br>
+My ambition drives me to improve myself daily, always striving for excellence in my craft. 🚀<br>
 
 <!--
 
