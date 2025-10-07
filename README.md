@@ -1,7 +1,7 @@
 ## Hi everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%">
 
 ### About me
-I'm a passionate Full Stack Developer currently working at Qarik, where I leverage my extensive experience in building applications.<br>
+I'm a passionate Full Stack Developer currently working at Egen, where I leverage my extensive experience in building applications.<br>
 My journey led me to discover the power of JavaScript, and I've been deeply involved in the front-end ecosystem.<br>
 
 ### Open-source
