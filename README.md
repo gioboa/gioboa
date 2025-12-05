@@ -13,9 +13,9 @@ Sharing my expertise with others is a true passion of mine.<br>
 I'm an international speaker, engaging audiences worldwide and contributing to the global tech community.<br>
 My ambition drives me to improve myself daily, always striving for excellence in my craft. 🚀<br>
 
-### Do you like my work and commitment? 
+### Do you like my projects and commitment?
 
-You can [nominate me](https://stars.github.com/nominate/) for the GitHub Star program. 🙏 Thanks.
+You can [nominate me](https://stars.github.com/nominate/) for the GitHub Star ⭐️ program. 🙏 Thanks.
 
 <!--
 
