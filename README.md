@@ -13,6 +13,10 @@ Sharing my expertise with others is a true passion of mine.<br>
 I'm an international speaker, engaging audiences worldwide and contributing to the global tech community.<br>
 My ambition drives me to improve myself daily, always striving for excellence in my craft. 🚀<br>
 
+### Do you like my work and commitment? 
+
+You can [nominate me](https://stars.github.com/nominate/) for the GitHub Star program. 🙏 Thanks.
+
 <!--
 
 Giorgio Boa is a passionate Full Stack Developer currently working at Qarik, where he leverages extensive experience in building applications.
